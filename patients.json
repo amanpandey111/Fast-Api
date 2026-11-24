@@ -1,0 +1,202 @@
+{
+    "P001": {
+        "name": "Rahul Sharma",
+        "city": "Delhi",
+        "age": 28,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 72,
+        "bmi": 23.51,
+        "verdict": "Normal"
+    },
+    "P002": {
+        "name": "Priya Verma",
+        "city": "Mumbai",
+        "age": 32,
+        "gender": "Female",
+        "height": 1.62,
+        "weight": 68,
+        "bmi": 25.91,
+        "verdict": "Overweight"
+    },
+    "P003": {
+        "name": "Amit Patel",
+        "city": "Ahmedabad",
+        "age": 45,
+        "gender": "Male",
+        "height": 1.70,
+        "weight": 95,
+        "bmi": 32.87,
+        "verdict": "Obese"
+    },
+    "P004": {
+        "name": "Sneha Reddy",
+        "city": "Hyderabad",
+        "age": 25,
+        "gender": "Female",
+        "height": 1.60,
+        "weight": 48,
+        "bmi": 18.75,
+        "verdict": "Normal"
+    },
+    "P005": {
+        "name": "Vikram Singh",
+        "city": "Jaipur",
+        "age": 38,
+        "gender": "Male",
+        "height": 1.80,
+        "weight": 105,
+        "bmi": 32.41,
+        "verdict": "Obese"
+    },
+    "P006": {
+        "name": "Ananya Gupta",
+        "city": "Lucknow",
+        "age": 29,
+        "gender": "Female",
+        "height": 1.65,
+        "weight": 52,
+        "bmi": 19.10,
+        "verdict": "Normal"
+    },
+    "P007": {
+        "name": "Karan Mehta",
+        "city": "Pune",
+        "age": 51,
+        "gender": "Male",
+        "height": 1.72,
+        "weight": 85,
+        "bmi": 28.73,
+        "verdict": "Overweight"
+    },
+    "P008": {
+        "name": "Neha Kapoor",
+        "city": "Chandigarh",
+        "age": 34,
+        "gender": "Female",
+        "height": 1.58,
+        "weight": 42,
+        "bmi": 16.82,
+        "verdict": "Underweight"
+    },
+    "P009": {
+        "name": "Arjun Nair",
+        "city": "Kochi",
+        "age": 41,
+        "gender": "Male",
+        "height": 1.78,
+        "weight": 76,
+        "bmi": 23.99,
+        "verdict": "Normal"
+    },
+    "P010": {
+        "name": "Meera Iyer",
+        "city": "Chennai",
+        "age": 27,
+        "gender": "Female",
+        "height": 1.63,
+        "weight": 75,
+        "bmi": 28.23,
+        "verdict": "Overweight"
+    },
+    "P011": {
+        "name": "Rohit Kumar",
+        "city": "Patna",
+        "age": 56,
+        "gender": "Male",
+        "height": 1.68,
+        "weight": 55,
+        "bmi": 19.49,
+        "verdict": "Normal"
+    },
+    "P012": {
+        "name": "Pooja Desai",
+        "city": "Surat",
+        "age": 31,
+        "gender": "Female",
+        "height": 1.67,
+        "weight": 88,
+        "bmi": 31.55,
+        "verdict": "Obese"
+    },
+    "P013": {
+        "name": "Suresh Rao",
+        "city": "Bengaluru",
+        "age": 48,
+        "gender": "Male",
+        "height": 1.74,
+        "weight": 68,
+        "bmi": 22.46,
+        "verdict": "Normal"
+    },
+    "P014": {
+        "name": "Kavita Joshi",
+        "city": "Bhopal",
+        "age": 39,
+        "gender": "Female",
+        "height": 1.55,
+        "weight": 70,
+        "bmi": 29.14,
+        "verdict": "Overweight"
+    },
+    "P015": {
+        "name": "Aditya Mishra",
+        "city": "Kanpur",
+        "age": 23,
+        "gender": "Male",
+        "height": 1.82,
+        "weight": 60,
+        "bmi": 18.11,
+        "verdict": "Underweight"
+    },
+    "P016": {
+        "name": "Divya Menon",
+        "city": "Kozhikode",
+        "age": 44,
+        "gender": "Female",
+        "height": 1.64,
+        "weight": 62,
+        "bmi": 23.05,
+        "verdict": "Normal"
+    },
+    "P017": {
+        "name": "Manish Yadav",
+        "city": "Gurugram",
+        "age": 36,
+        "gender": "Male",
+        "height": 1.76,
+        "weight": 92,
+        "bmi": 29.70,
+        "verdict": "Overweight"
+    },
+    "P018": {
+        "name": "Riya Chatterjee",
+        "city": "Kolkata",
+        "age": 30,
+        "gender": "Female",
+        "height": 1.70,
+        "weight": 50,
+        "bmi": 17.30,
+        "verdict": "Underweight"
+    },
+    "P019": {
+        "name": "Deepak Shah",
+        "city": "Indore",
+        "age": 59,
+        "gender": "Male",
+        "height": 1.69,
+        "weight": 78,
+        "bmi": 27.31,
+        "verdict": "Overweight"
+    },
+    "P020": {
+        "name": "Ishita Roy",
+        "city": "Dehradun",
+        "age": 26,
+        "gender": "Female",
+        "height": 1.66,
+        "weight": 55,
+        "bmi": 19.96,
+        "verdict": "Normal"
+    }
+}
